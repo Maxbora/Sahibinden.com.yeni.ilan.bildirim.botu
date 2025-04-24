@@ -1,2 +1,2 @@
-# Sahibinden.com.yeni.ilan.bildirim.botu
-Sahibinden.com Yeni İlan Bildirim Botu
+# Sahibinden.com Yeni İlan Bildirim Botu (Windows CLI)
+
