@@ -6,7 +6,7 @@ Merhaba arkadaşlar, sahibinden.com üzerinde kullanabileceğimiz bir ilan bildi
 
 Yeni fikir ve görüşlere her zaman açığım. Hep birlikte bu botu geliştirebiliriz.
 
-Telegram adresim --> @mrhgvn
+Telegram adresim --> <b>@mrhgvn</b>
 
 
 
