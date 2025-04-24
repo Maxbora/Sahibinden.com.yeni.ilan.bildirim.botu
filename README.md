@@ -2,11 +2,14 @@
 
 <h2>Çok yakında burada..</h2>
 
-Merhaba arkadaşlar, sahibinden.com üzerinde kullanabileceğimiz bir ilan bildirim botu tasarımına başlamış bulunmaktayım. Bildiğimiz üzere favori aramalarına eklediğimiz yeni ilanların bildirimleri 24 saatlik periyotlar ile gönderilmektedir. Bundan sebep kriterlerimize uygun ilanları manuel olarak aramak durumunda kalıyoruz. Ayrıca birçok yeni ilanı da daha göremeden ıskalamış oluyoruz. Bu proje tam olarak bu sorunu çözmeyi amaçlamaktadır. Kriterlerimize uygun yeni bir ilan listelendiğinde, anlık olarak bu ilanın bildirim olarak telefona gelmesini sağlamaya çalışıyorum. Özellikle emlak ve otomotiv sektörü için bulunmaz bir nimet olabileceğini düşünüyorum.
 
-Yeni fikir ve görüşlere her zaman açığım. Hep birlikte bu botu geliştirebiliriz.
+Merhaba arkadaşlar, sahibinden.com üzerinde kullanılmak üzere bir ilan bildirim botu geliştirmeye başladım. Bildiğiniz gibi, favori aramalarımıza eklediğimiz ilanların bildirimleri genellikle 24 saatlik periyotlarla iletiliyor. Bu durum, kriterlerimize uygun ilanlara zamanında ulaşmamızı engelliyor ve çoğu yeni ilanı daha görmeden kaçırmamıza neden oluyor.
 
-Telegram adresim --> <b>@mrhgvn</b>
+Bu projeyle hedefim, belirlediğimiz kriterlere uygun yeni bir ilan yayınlandığında anlık olarak bildirim alabilmemizi sağlamak. Özellikle emlak ve otomotiv sektörleri için büyük bir avantaj sunabileceğini düşünüyorum.
+
+Projeyi daha da geliştirebilmek adına her türlü fikir ve geri bildirime açığım. Birlikte çok daha faydalı bir sistem ortaya çıkarabiliriz.
+
+Telegram üzerinden bana ulaşmak isterseniz: <b>@mrhgvn</b>
 
 
 
