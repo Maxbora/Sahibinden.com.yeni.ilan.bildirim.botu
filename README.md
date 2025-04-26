@@ -10,13 +10,14 @@ Bu projeyle hedefim, belirlediğimiz kriterlere uygun yeni bir ilan yayınlandı
 Projeyi daha da geliştirebilmek adına her türlü fikir ve geri bildirime açığım. Birlikte çok daha faydalı bir sistem ortaya çıkarabiliriz.
 
 Telegram üzerinden bana ulaşmak isterseniz: <b>@methimi</b>
-
-Yazılım Notları (26.04.2025)
-- Bu bot tüm Windows masaüstü sürümlerinde çalışacak.
-- Tarayıcı tabanlı olacağı için, Google Chrome'un en son sürümünün sistemde olma şartı aranacak.
-- Kullanıcının Sahibinden.com üzerindeki favori aramalarındaki kriterler referans alınarak periyodik tarama yapılacak.
-- Anti bot güvenlik sistemlerine yakalanmaması için insan davranışları simüle edilecek.
-- Kriterlere uygun yeni bir ilan bulunması halinde, kullanıcının telegram hesabına ilan linki ile beraber bildirim gönderilecek. Zamanla farklı mesajlaşma uygulamaları dahil edilebilir.
+<br><br><br>
+<b>Yazılım Notları (26.04.2025)</b>
+- Bu bot, tüm Windows masaüstü sürümlerinde çalışacak şekilde geliştirilecektir.
+- Tarayıcı tabanlı çalışacağından, sistemde Google Chrome'un en güncel sürümünün yüklü olması şartı aranacaktır.
+- Kullanıcının Sahibinden.com üzerindeki favori arama kriterleri referans alınarak periyodik veri taraması gerçekleştirilecektir.
+- Anti-bot güvenlik sistemlerine takılmamak için insan davranışlarını taklit eden bir simülasyon uygulanacaktır.
+- Kriterlere uygun yeni bir ilan tespit edilmesi durumunda, kullanıcıya ilan bağlantısı ile birlikte Telegram üzerinden bildirim gönderilecektir.
+- İlerleyen zamanlarda farklı mesajlaşma uygulamaları da destek kapsamına alınacaktır.
 
 
 
