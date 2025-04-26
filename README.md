@@ -11,5 +11,12 @@ Projeyi daha da geliştirebilmek adına her türlü fikir ve geri bildirime aç�
 
 Telegram üzerinden bana ulaşmak isterseniz: <b>@methimi</b>
 
+Yazılım Notları (26.04.2025)
+- Bu bot tüm Windows masaüstü sürümlerinde çalışacak.
+- Tarayıcı tabanlı olacağı için, Google Chrome'un en son sürümünün sistemde olma şartı aranacak.
+- Kullanıcının Sahibinden.com üzerindeki favori aramalarındaki kriterler referans alınarak periyodik tarama yapılacak.
+- Anti bot güvenlik sistemlerine yakalanmaması için insan davranışları simüle edilecek.
+- Kriterlere uygun yeni bir ilan bulunması halinde, kullanıcının telegram hesabına ilan linki ile beraber bildirim gönderilecek. Zamanla farklı mesajlaşma uygulamaları dahil edilebilir.
+
 
 
