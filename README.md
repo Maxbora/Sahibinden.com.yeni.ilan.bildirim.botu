@@ -9,7 +9,7 @@ Bu projeyle hedefim, belirlediğimiz kriterlere uygun yeni bir ilan yayınlandı
 
 Projeyi daha da geliştirebilmek adına her türlü fikir ve geri bildirime açığım. Birlikte çok daha faydalı bir sistem ortaya çıkarabiliriz.
 
-Telegram üzerinden bana ulaşmak isterseniz: <b>@mrhgvn</b>
+Telegram üzerinden bana ulaşmak isterseniz: <b>@methimi</b>
 
 
 
