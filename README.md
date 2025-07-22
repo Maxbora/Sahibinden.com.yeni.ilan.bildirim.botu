@@ -12,7 +12,12 @@ Projeyi daha da geliştirebilmek adına her türlü fikir ve geri bildirime aç�
 
 Telegram üzerinden bana ulaşmak isterseniz: <b>@methimi</b>
 <br><br><br>
-<b>Geliştirme Notları ve Yol Haritası (26.04.2025)</b>
+<b>Geliştirme Notları ve Yol Haritası (22.07.2025)</b>
+BETA sürüm v1.0.0
+- Beta sürümü indirip botu test edebilirsiniz.
+- Telegram bildirimleri şu an için kapalıdır.
+- Geri dönüşlerinizi bekliyorum.
+
 - Bu bot, tüm Windows masaüstü sürümlerinde çalışacak şekilde geliştirilecektir.
 - Tarayıcı tabanlı çalışacağından, sistemde Google Chrome'un en güncel sürümünün yüklü olması şartı aranacaktır.
 - Kullanıcının Sahibinden.com üzerindeki favori arama kriterleri referans alınarak periyodik veri taraması gerçekleştirilecektir.
