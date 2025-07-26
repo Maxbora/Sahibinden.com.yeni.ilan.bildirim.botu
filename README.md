@@ -22,7 +22,8 @@ Telegram üzerinden bana ulaşmak isterseniz: <b>@methimi</b>
 - Kullanıcının Sahibinden.com üzerindeki favori arama kriterleri referans alınarak periyodik veri taraması gerçekleştirilecektir.
 - Anti-bot güvenlik sistemlerine takılmamak için insan davranışlarını taklit eden bir simülasyon uygulanacaktır.
 - Kriterlere uygun yeni bir ilan tespit edilmesi durumunda, kullanıcıya ilan bağlantısı ile birlikte Telegram üzerinden bildirim gönderilecektir.
-- İlerleyen zamanlarda farklı mesajlaşma uygulamaları da destek kapsamına alınacaktır.
+- Ücretli ve ücretsiz olmak üzere yazılımın 2 tip çalışma versiyonu olacaktır.
+- Ücretli versiyon aylık abonelik sistemi ile çalışacak olup, kullanıcılara daha gelişmiş özellikler sunacaktır.
 
 
 
