@@ -1,7 +1,7 @@
 # Sahibinden.com Yeni İlan Bildirim Botu (Windows)
 
-<h2>Test Sürümü Yayınlanmıştır!<br>
-<a href="https://github.com/Maxbora/Sahibinden.com.yeni.ilan.bildirim.botu/releases/download/SahibindenCoM_Yeni_%C4%B0lan_Bildirim_Botu/SahibindenCom_Bildirim_Botu_BETA_V1.0.0.zip">BURAYA TIKLAYARAK</a> indirebilirsiniz!</h2>
+<h2>Test Sürümü Yayınlanmıştır!
+<a href="https://github.com/Maxbora/Sahibinden.com.yeni.ilan.bildirim.botu/releases/download/SahibindenCoM_Yeni_%C4%B0lan_Bildirim_Botu/SahibindenCoM_Bildirim_Botu.zip">BURAYA TIKLAYARAK</a> indirebilirsiniz!</h2>
 
 
 Merhaba arkadaşlar, sahibinden.com üzerinde kullanılmak üzere bir ilan bildirim botu geliştirmeye başladım. Bildiğiniz gibi, favori aramalarımıza eklediğimiz ilanların bildirimleri genellikle 24 saatlik periyotlarla iletiliyor. Bu durum, kriterlerimize uygun ilanlara zamanında ulaşmamızı engelliyor ve çoğu yeni ilanı daha görmeden kaçırmamıza neden oluyor.
@@ -12,11 +12,10 @@ Projeyi daha da geliştirebilmek adına her türlü fikir ve geri bildirime aç�
 
 Telegram üzerinden bana ulaşmak isterseniz: <b>@methimi</b>
 <br><br><br>
-<b>Geliştirme Notları ve Yol Haritası (22.07.2025)</b>
-<br># BETA sürüm v1.0.0
-- Beta sürümü indirip botu test edebilirsiniz.
-- Telegram bildirimleri şu an için kapalıdır.
-- Geri dönüşlerinizi bekliyorum.
+<b>Geliştirme Notları ve Yol Haritası (26.07.2025)</b>
+<br># BETA v1.0.1
+- Telegram entegrasyonu yapıldı.
+- Hata düzeltmeleri ve küçük değişiklikler
 <br><br>
 - Bu bot, tüm Windows masaüstü sürümlerinde çalışacak şekilde geliştirilecektir.
 - Tarayıcı tabanlı çalışacağından, sistemde Google Chrome'un en güncel sürümünün yüklü olması şartı aranacaktır.
