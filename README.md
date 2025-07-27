@@ -1,7 +1,7 @@
 # Sahibinden.com Yeni İlan Bildirim Botu (Windows)
 
 <h2>Test Sürümü Yayınlanmıştır!
-<a href="https://github.com/Maxbora/Sahibinden.com.yeni.ilan.bildirim.botu/releases/download/SahibindenCoM_Yeni_%C4%B0lan_Bildirim_Botu/SahibindenCoM_Bildirim_Botu.zip">BURAYA TIKLAYARAK</a> indirebilirsiniz!</h2>
+<a href="https://github.com/Maxbora/Sahibinden.com.yeni.ilan.bildirim.botu/releases/download/SahibindenCoM_Yeni_%C3%84%C2%B0lan_Bildirim_Botu/SahibindenCoM_Bildirim_Botu.zip">BURAYA TIKLAYARAK</a> indirebilirsiniz!</h2>
 
 
 Merhaba arkadaşlar, sahibinden.com üzerinde kullanılmak üzere bir ilan bildirim botu geliştirmeye başladım. Bildiğiniz gibi, favori aramalarımıza eklediğimiz ilanların bildirimleri genellikle 24 saatlik periyotlarla iletiliyor. Bu durum, kriterlerimize uygun ilanlara zamanında ulaşmamızı engelliyor ve çoğu yeni ilanı daha görmeden kaçırmamıza neden oluyor.
